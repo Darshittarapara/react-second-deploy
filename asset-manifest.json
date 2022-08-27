@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-second-deploy/static/css/main.45f0400d.css",
+    "main.js": "/react-second-deploy/static/js/main.edcee4b4.js",
+    "static/js/787.35a24777.chunk.js": "/react-second-deploy/static/js/787.35a24777.chunk.js",
+    "static/media/about.jpg": "/react-second-deploy/static/media/about.eb6994b3f1422be5331a.jpg",
+    "static/media/Book_9.jpg": "/react-second-deploy/static/media/Book_9.10eeb7ac559a4fa275a2.jpg",
+    "static/media/webp.png": "/react-second-deploy/static/media/webp.48373fe4a16915e0ea1c.png",
+    "static/media/back.jpg": "/react-second-deploy/static/media/back.eed3bff74ee06421f7e8.jpg",
+    "static/media/Book_10.jpg": "/react-second-deploy/static/media/Book_10.e2c2e95e48978c3269c8.jpg",
+    "static/media/Book_5.jpg": "/react-second-deploy/static/media/Book_5.28e58f4f02b4ab9c45b4.jpg",
+    "static/media/Book_1.jpg": "/react-second-deploy/static/media/Book_1.95d447d2abc7d814f7ed.jpg",
+    "static/media/benefits.jpg": "/react-second-deploy/static/media/benefits.1b2ce3ee75110b0488cc.jpg",
+    "static/media/Book_2.jpg": "/react-second-deploy/static/media/Book_2.6d64a7ed59583c3c2450.jpg",
+    "static/media/logo.png": "/react-second-deploy/static/media/logo.ec6d255e988a820ed4f8.png",
+    "static/media/Book_4.jpg": "/react-second-deploy/static/media/Book_4.fa16c552a25ca9899f8b.jpg",
+    "index.html": "/react-second-deploy/index.html",
+    "main.45f0400d.css.map": "/react-second-deploy/static/css/main.45f0400d.css.map",
+    "main.edcee4b4.js.map": "/react-second-deploy/static/js/main.edcee4b4.js.map",
+    "787.35a24777.chunk.js.map": "/react-second-deploy/static/js/787.35a24777.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f0400d.css",
+    "static/js/main.edcee4b4.js"
+  ]
+}
